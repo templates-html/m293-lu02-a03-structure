@@ -1,0 +1,36 @@
+header {
+    background-color: coral;
+    padding: 10px;
+    height: 150px;
+}
+
+main {
+    display: block;
+    clear: both;
+}
+
+footer {
+    background-color: cornflowerblue;
+    display: block;
+    clear: both;
+    text-align: center;
+}
+
+nav > ul > li {
+    display: block;
+    float: left;
+    width: 150px;
+    padding: 5px; /*adjust*/
+}
+
+
+section {
+
+}
+
+article {
+    display: block;
+    width: 30%;
+    float: left;
+    margin: 10px;
+}
